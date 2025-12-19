@@ -50,7 +50,6 @@
     "update:ng": "ng update @angular/cli @angular/core @angular/cdk @angular/material @angular-devkit/schematics @angular-devkit/schematics-cli --force",
     "update:version": "schematics .:versioning --debug=false",
     "publish": "./publish.sh",
-    "prepare": "ng build @ng-dynamic-forms/core && ng build  @ng-dynamic-forms/ui-ng-bootstrap"
   },
   "private": false,
   "dependencies": {
