@@ -1,6 +1,6 @@
 {
-  "name": "4science-ng-dynamic-forms",
-  "version": "19.0.2",
+  "name": "4science_ng-dynamic-forms",
+  "version": "19.0.0",
   "description": "A rapid form development library for Angular",
   "repository": {
     "type": "git",

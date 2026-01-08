@@ -1,5 +1,5 @@
 {
-  "name": "@4science-ng-dynamic-forms/ui-foundation",
+  "name": "@4science_ng-dynamic-forms/ui-foundation",
   "version": "19.0.0",
   "description": "Foundation UI package for NG Dynamic Forms",
   "keywords": [
@@ -29,7 +29,7 @@
     "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
   },
   "peerDependencies": {
-    "@ng-dynamic-forms/core": "^19.0.0",
+    "@4science_ng-dynamic-forms/core": "^19.0.0",
     "foundation-sites": "^6.3.1",
     "ngx-mask": "^16.4.2"
   },
