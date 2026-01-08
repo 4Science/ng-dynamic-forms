@@ -1,6 +1,6 @@
 {
   "name": "@4science_ng-dynamic-forms/ui-basic",
-  "version": "19.0.0",
+  "version": "19.0.1",
   "description": "Basic UI package for NG Dynamic Forms",
   "keywords": [
     "angular",
@@ -28,7 +28,7 @@
     "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
   },
   "peerDependencies": {
-    "@4science_ng-dynamic-forms/core": "^19.0.0",
+    "@4science_ng-dynamic-forms/core": "^19.0.1",
     "ngx-mask": "^16.4.2"
   },
   "es2015": "./fesm2015/ui-basic.js",

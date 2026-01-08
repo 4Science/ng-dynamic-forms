@@ -1,6 +1,6 @@
 {
   "name": "@4science_ng-dynamic-forms/ui-ionic",
-  "version": "19.0.0",
+  "version": "19.0.1",
   "description": "Ionic UI package for NG Dynamic Forms",
   "keywords": [
     "angular",
@@ -30,7 +30,7 @@
   },
   "peerDependencies": {
     "@ionic/angular": "^7.0.0",
-    "@4science_ng-dynamic-forms/core": "^19.0.0"
+    "@4science_ng-dynamic-forms/core": "^19.0.1"
   },
   "es2015": "./fesm2015/ui-ionic.js",
   "esm2015": "./esm2015/ui-ionic.js",
