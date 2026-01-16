@@ -21,7 +21,7 @@
             [compareWith]="model.compareWithFn"
             [formControlName]="model.id"
             [id]="id"
-            [attr.aria-label]="model.label"
+            [attr.aria-label]="model.label || model.placeholder"
             [name]="model.name"
             [ngClass]="getClass('element', 'control')"
             [required]="model.required"
