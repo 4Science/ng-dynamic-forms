@@ -1,6 +1,6 @@
 {
-  "name": "@ng-dynamic-forms/core",
-  "version": "18.0.0",
+  "name": "@4science_ng-dynamic-forms/core",
+  "version": "19.1.0",
   "description": "A rapid form development library for Angular",
   "keywords": [
     "angular",
@@ -10,9 +10,9 @@
     "ng dynamic forms",
     "reactive forms"
   ],
-  "homepage": "https://github.com/udos86/ng-dynamic-forms#readme",
+  "homepage": "https://github.com/4Science/ng-dynamic-forms#readme",
   "bugs": {
-    "url": "https://github.com/udos86/ng-dynamic-forms/issues"
+    "url": "https://github.com/4Science/ng-dynamic-forms/issues"
   },
   "license": "ISC",
   "author": {
@@ -20,12 +20,18 @@
     "email": "ng2-dynamic-forms@udos86.de",
     "url": "https://github.com/udos86/ng-dynamic-forms"
   },
+  "contributors": [
+    {
+      "name": "Francesco Molinaro",
+      "url": "https://github.com/FrancescoMolinaro"
+    }
+  ],
   "main": "./bundles/core.umd.js",
   "module": "./fesm5/core.js",
   "typings": "./core.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
+    "url": "git+https://github.com/4Science/ng-dynamic-forms.git"
   },
   "peerDependencies": {
     "@angular/common": "^16.0.0",
