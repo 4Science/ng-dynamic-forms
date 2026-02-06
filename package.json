@@ -1,21 +1,27 @@
 {
   "name": "4science_ng-dynamic-forms",
-  "version": "19.0.4",
+  "version": "19.1.0",
   "description": "A rapid form development library for Angular",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
+    "url": "git+https://github.com/4Science/ng-dynamic-forms.git"
   },
   "author": {
     "name": "Udo Schöfer",
     "email": "ng2-dynamic-forms@udos86.de",
     "url": "https://github.com/udos86/ng-dynamic-forms"
   },
+  "contributors": [
+    {
+      "name": "Francesco Molinaro",
+      "url": "https://github.com/FrancescoMolinaro"
+    }
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/udos86/ng-dynamic-forms/issues"
+    "url": "https://github.com/4Science/ng-dynamic-forms/issues"
   },
-  "homepage": "https://github.com/udos86/ng-dynamic-forms#readme",
+  "homepage": "https://github.com/4Science/ng-dynamic-forms#readme",
   "schematics": "./schematics/collection.json",
   "scripts": {
     "ng": "ng",

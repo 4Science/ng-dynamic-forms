@@ -1,6 +1,6 @@
 {
   "name": "@4science_ng-dynamic-forms/ui-bootstrap",
-  "version": "19.0.1",
+  "version": "19.1.0",
   "description": "Bootstrap UI package for NG Dynamic Forms",
   "keywords": [
     "angular",
@@ -12,9 +12,9 @@
     "reactive forms",
     "ui"
   ],
-  "homepage": "https://github.com/udos86/ng-dynamic-forms#readme",
+  "homepage": "https://github.com/4Science/ng-dynamic-forms#readme",
   "bugs": {
-    "url": "https://github.com/udos86/ng-dynamic-forms/issues"
+    "url": "https://github.com/4Science/ng-dynamic-forms/issues"
   },
   "license": "ISC",
   "author": {
@@ -27,7 +27,7 @@
   "typings": "./ui-bootstrap.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
+    "url": "git+https://github.com/4Science/ng-dynamic-forms.git"
   },
   "peerDependencies": {
     "@4science_ng-dynamic-forms/core": "^19.0.1",
